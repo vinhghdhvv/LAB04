@@ -1,0 +1,32 @@
+/* Type Selector: Chọn theo thẻ html */
+p {
+    color: navy;
+}
+span {
+    background-color: yellow;
+    color:red;
+}
+/* ID Selector */
+p#name {
+    text-decoration: underline;
+}
+#grade {
+    font-weight: 900;
+    color:blueviolet;
+}
+/* Class Selector */
+div.circle {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 50%;
+}
+div {
+    margin: 5px;
+}
